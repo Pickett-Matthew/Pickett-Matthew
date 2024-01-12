@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pickett-Matthew
 - 👀 I’m interested in all things coding
-- 🌱 I’m currently learning Nuxtjs
+- <code>NextJS</code>
 
 <!---
 Pickett-Matthew/Pickett-Matthew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
